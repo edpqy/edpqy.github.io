@@ -1,0 +1,31 @@
+appearance:
+  theme_day: minimal
+  theme_night: minimal
+
+site_type: Person
+
+mainSections:
+  - post
+
+features:
+  math: false
+  diagram: false
+  privacy_pack: true
+
+avatar:
+  shape: circle
+
+email: eddy_pq_you@nni.com.sg
+
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:eddy_pq_you@nni.com.sg
+
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/eddypqy
+
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-8988-7255
