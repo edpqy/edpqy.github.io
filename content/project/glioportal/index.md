@@ -10,9 +10,10 @@ tags: ["Glioblastoma", "Resource", "Transcriptomics", "Tumor microenvironment"]
 
 links:
   - name: Paper (Neuro-Oncology)
-    url: "https://doi.org/10.1093/neuonc/noaf145"
+    doi: "10.1093/neuonc/noaf145"
+    url_source: "https://doi.org/10.1093/neuonc/noaf145"
   - name: Portal
-    url: "PUT_YOUR_GLIOPORTAL_URL_HERE"
+    url_source: "https://www.skandlab.org/OncoSG/"
 ---
 
 ## Why it matters
