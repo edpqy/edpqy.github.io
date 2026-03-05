@@ -8,10 +8,9 @@ weight: 3
 
 tags: ["3D Genome", "Hi-C", "EMT", "Epigenetics", "Chromatin architecture"]
 
-links:
-  - name: Paper (Genome Biology)
-    url: "https://doi.org/10.1186/s13059-022-02687-x"
----
+# Recommended fields for HugoBlox publications
+doi: "10.1186/s13059-022-02687-x"
+url_source: "https://doi.org/10.1186/s13059-022-02687-x"
 
 ## The question
 How does higher-order chromatin architecture shape gene regulation across EMT states?
